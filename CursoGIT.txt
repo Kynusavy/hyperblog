@@ -6,6 +6,4 @@ o en su defecto codigo fuende de prograsmas, sus funconalidades permite hacer la
  
 de los editores de determinado texto
 
-
-Mi edad es 35 años y estoy haciendo la actualizacion de coconimientos en el area de desarrollo...
-Cambio adicional para GIT
+Mi edad es 40 años y estoy haciendo la actualizacion de coconimientos en el area de desarrollo...
