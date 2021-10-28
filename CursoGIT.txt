@@ -7,3 +7,5 @@ o en su defecto codigo fuende de prograsmas, sus funconalidades permite hacer la
 de los editores de determinado texto
 
 Mi edad es 40 años y estoy haciendo la actualizacion de coconimientos en el area de desarrollo...
+
+Lineas para pegar historia pero no como rama si no en un flujo normal de desarrollo
