@@ -10,6 +10,10 @@ Mi edad es 40 años y estoy haciendo la actualizacion de coconimientos en el are
 
 Lineas para pegar historia pero no como rama si no en un flujo normal de desarrollo
 
+<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
+=======
+Main 2
+>>>>>>> 7ef1bae (Main 2)
