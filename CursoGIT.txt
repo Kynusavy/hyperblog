@@ -14,4 +14,10 @@ Experimento 1
 
 Experimento 2
 
+<<<<<<< HEAD
 Creadro para probar el comando cherry pick
+=======
+Creadro para probar el comando cherry pick
+incluye ejemplo en win, linux y mac
+disponible para todas las edades
+>>>>>>> Archvo-mejorado
