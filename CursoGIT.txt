@@ -16,3 +16,4 @@ Experimento 2
 
 Creadro para probar el comando cherry pick
 incluye ejemplo en win, linux y mac
+disponible para todas las edades
