@@ -13,3 +13,5 @@ Lineas para pegar historia pero no como rama si no en un flujo normal de desarro
 Experimento 1
 
 Experimento 2
+
+Creadro para probar el comando cherry pick
